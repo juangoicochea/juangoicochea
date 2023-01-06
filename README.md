@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I am Juan, I am a Web Fullstack Developer who is passionate about everything related to the digital world and technology. I am also a multimedia graphic designer and my goal is always to unite both areas of knowledge, specializing as a Frontend Developer.
+I am Juan, I am a front end developer who is passionate about everything related to the digital world and technology. I am also a multimedia graphic designer and my goal is always to unite both areas of knowledge, specializing as a Frontend Developer.
 
 Want to know more about me? [Check out my portfolio.](https://juangoicochea.dev/)
 
