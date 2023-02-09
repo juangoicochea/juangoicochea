@@ -1,6 +1,5 @@
 [![Braydon's GitHub Banner](./assets/github-header.png)](https://juangoicochea.dev)
 
-[![Visits Badge](https://badges.pufler.dev/visits/juangoicochea/juangoicochea)](https:juangoicochea.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/juan-goicochea/)
 
 Hey there 👋
