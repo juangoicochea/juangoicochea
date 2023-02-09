@@ -13,6 +13,10 @@ Want to know more about me? [Check out my portfolio.](https://juangoicochea.dev/
 
 <br>
 
+<a href="https://github.com/juangoicochea/allrecipes">
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=juangoicochea&repo=allrecipes&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <a href="https://github.com/juangoicochea/pi-videogames">
   <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=juangoicochea&repo=pi-videogames&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
