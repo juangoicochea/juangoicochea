@@ -4,9 +4,9 @@
 
 Hey there 👋
 
-I am Juan, I am a front end developer who is passionate about everything related to the digital world and technology. I am also a multimedia graphic designer and my goal is always to unite both areas of knowledge, specializing as a Frontend Developer.
+I am Juan, Fullstack Developer with experience working on NodeJS, React, Redux, SQL, among other technologies. In addition, I am a multimedia graphic designer and I am passionate about combining both careers working as a Frontend Developer creating interfaces that provide the best user experience. I have worked more than 10 years developing sites with Wordpress which has made me always be inside the digital world. Easily learning skill, teamwork, clear communication and responsibility.
 
-Want to know more about me? [Check out my portfolio.](https://juangoicochea.dev/)
+Want to know more about me? [Check out my portfolio.](https://juangoicochea.dev/en/)
 
 ## 📌 Pinned Repositories
 
